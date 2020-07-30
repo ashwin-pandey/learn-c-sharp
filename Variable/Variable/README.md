@@ -2,16 +2,15 @@
 
 ### What is a variable?
 A varaible is representation of information.
-<br>
+<br><br>
 In order to access and process an information, it needs to be stored, that's where variables come in.
 It is used for storing information.
-<br>
+<br><br>
 In C# there are different types of variable, we need to specify variable types, 
 one variable type will not necessarily be compatible with another variable type.
-<br>
-Variable types have reserved keywords which canot be used for any other purposes.<br>
-Type tells us what kind of data it will store,<br>
-for example, <br>
+<br><br>
+Variable types have reserved keywords which canot be used for any other purposes. Type tells us what kind of data it will store.<br>
+for example,<br>
 "int" will store integer data (numbers), <br>
 "string" allows us to store textual information (string myName = "Ashwin"),<br>
 "bool" allows us to store boolean values ("true/false" OR "0/1")<br>
